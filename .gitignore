@@ -1,20 +1,8 @@
 .DS_Store
 */.DS_Store
 .ipynb_checkpoints/*
+**/.ipynb_checkpoints/*
+notebook_templates
 
-assignments/.ipynb_checkpoints/template-ifn619-assignment1-partb-checkpoint.ipynb
-2022/.ipynb_checkpoints/IFN619-week01-intro-checkpoint.ipynb
-2022/.ipynb_checkpoints/IFN619-week02-module1a-exercise1-checkpoint.ipynb
-2022/.ipynb_checkpoints/IFN619-week02-module1a-exercise2-checkpoint.ipynb
-2022/.ipynb_checkpoints/IFN619-week03-module1b-checkpoint.ipynb
-2022/.ipynb_checkpoints/IFN619-week03-module1b-exercises-checkpoint.ipynb
-2022/.ipynb_checkpoints/module1b-exercises-checkpoint.ipynb
-2022/assessment/.ipynb_checkpoints/template-ifn619-assignment1-partb-checkpoint.ipynb
-2022/.ipynb_checkpoints/IFN619-week05-module2b-exercises-checkpoint.ipynb
-2022/.ipynb_checkpoints/IFN619-week05-module2b-partA-checkpoint.ipynb
-2022/.ipynb_checkpoints/IFN619-week05-module2b-partB-checkpoint.ipynb
-2022/.ipynb_checkpoints/IFN619-week05-module2b-partC-checkpoint.ipynb
-2022/private/guardian_key.txt
-2022/private/.ipynb_checkpoints/guardian_key-checkpoint.txt
-2022/.ipynb_checkpoints/IFN619-week05-module2b-API_access-checkpoint.ipynb
-2022/.ipynb_checkpoints/IFN619-week02-module1a-checkpoint.ipynb
+
+

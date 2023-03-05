@@ -2,8 +2,7 @@
 */.DS_Store
 .ipynb_checkpoints/*
 **/.ipynb_checkpoints/*
-notebook_templates
-
-
+2023/notebook_templates/**
 
 2023/*-draft.ipynb
+2023/teaching_working/**

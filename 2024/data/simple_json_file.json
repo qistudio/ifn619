@@ -1,0 +1,5 @@
+{
+    "Key 1": "The first value that goes with Key 1",
+    "Second key": "Json data that goes with the second key",
+    "3rd_key": ["This","is","a","json","list","and","value","for","3rd key"]
+}
